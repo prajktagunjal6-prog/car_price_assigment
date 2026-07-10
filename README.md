@@ -63,7 +63,7 @@ Car-Price-Analysis/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/Car-Price-Analysis.git
+git clone https://github.com/prajakta gunjal/Car-Price-Analysis.git
 ```
 
 2. Open the project.
